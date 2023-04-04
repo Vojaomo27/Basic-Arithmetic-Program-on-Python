@@ -1,2 +1,3 @@
 # Basic-Arithmetic-Program-on-Python
 A program to perform basic arithmetic operations on any two inputs.
+This is a basic Python program for learners and beginners in the Python programming track. In this runtime application, the program takes two integer numbers and performs basic arithmetic operations on them. The program includes the following operations: Addition as ADD, Subtraction as SUB, Multiplication as MUL, Division as DIV, and Exponential operations as POWER.
